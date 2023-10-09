@@ -1,5 +1,5 @@
 import "./App.css";
-import ChipsCollection from "./components/ChipsCollection";
+import ChipsCollection from "./components/chips-collection";
 
 function App() {
   return (
